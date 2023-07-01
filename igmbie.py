@@ -1,8 +1,3 @@
-hu## SC FREE JAGAN DI JUAL BELIKAN ##
-## APALAGI DI PREMIUMIN ##
-## PAKE SEWAJARNYA ##
-
-
 ###----------[ IMPORT MODULE ]----------###
 import requests, re, base64, os, json, time, sys, hashlib, hmac, uuid, random, datetime, calendar
 from concurrent.futures import ThreadPoolExecutor as Modol
