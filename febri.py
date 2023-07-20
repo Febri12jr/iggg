@@ -177,7 +177,7 @@ class Instagram:
 \t─║║║║║─║║╔╗╔╗║─║║║╔╗╚╝║╚══╬╝║║╚╣║─║║
 \t─║║║║║─║║║║║║║─║║║║╚╗║╠══╗║─║║─║╚═╝║
 \t╔╝╚╝║╚═╝║║║║║║╔╣╠╣║─║║║╚═╝║─║║─║╔═╗║
-\t╚═══╩═══╩╝╚╝╚╝╚══╩╝─╚═╩═══╝─╚╝─╚╝─╚╝\n\t{P2}        CRACK INSTAGRAM BY DUM-XD""",title=f"{P2}{H2}{self.timeLine()}",width=80,padding=(0,4),style=f"{color_table}"))
+\t╚═══╩═══╩╝╚╝╚╝╚══╩╝─╚═╩═══╝─╚╝─╚╝─╚╝\n\t{P2}        CRACK INSTAGRAM BY FEBRI-XD""",title=f"{P2}{H2}{self.timeLine()}",width=80,padding=(0,4),style=f"{color_table}"))
 
     def convert(self, xx, cok):
         try:
